@@ -1,0 +1,22 @@
+{
+  "name": "random-crystal-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funkaj/random-crystal-generator.git"
+  },
+  "author": "Adam Funk <b.kimate@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/funkaj/random-crystal-generator/issues"
+  },
+  "homepage": "https://github.com/funkaj/random-crystal-generator#readme",
+  "dependencies": {
+    "npm": "^6.12.0"
+  }
+}
