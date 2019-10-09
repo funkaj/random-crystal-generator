@@ -1,0 +1,202 @@
+{
+    "crystals": [
+        {
+            "name": "aegirine"
+        },
+        {
+            "name": "agate"
+        },
+        {
+            "name": "amazonite"
+        },
+        {
+            "name": "amber"
+        },
+        {
+            "name": "amethyst"
+        },
+        {
+            "name": "ametrine"
+        },
+        {
+            "name": "anhydrite"
+        },
+        {
+            "name": "andradite"
+        },
+        {
+            "name": "apatite"
+        },
+        {
+            "name": "apophyllite"
+        },
+        {
+            "name": "aquamarine"
+        },
+        {
+            "name": "aragonite"
+        },
+        {
+            "name": "aventurine"
+        },
+        {
+            "name": "azurite"
+        },
+        {
+            "name": "baryte"
+        },
+        {
+            "name": "benitoite"
+        },
+        {
+            "name": "beryl"
+        },
+        {
+            "name": "brazilianite"
+        },
+        {
+            "name": "bronzite"
+        },
+        {
+            "name": "calcite"
+        },
+        {
+            "name": "carnelian"
+        },
+        {
+            "name": "cancrinite"
+        },
+        {
+            "name": "cavansite"
+        },
+        {
+            "name": "celestine"
+        },
+        {
+            "name": "cerussite"
+        },
+        {
+            "name": "chalcedony"
+        },
+        {
+            "name": "chalcopyrite"
+        },
+        {
+            "name": "charoite"
+        },
+        {
+            "name": "chrysocolla"
+        },
+        {
+            "name": "chrysoprase"
+        },
+        {
+            "name": "citrine"
+        },
+        {
+            "name": "clinoclase"
+        },
+        {
+            "name": "cordierite"
+        },
+        {
+            "name": "crocoite"
+        },
+        {
+            "name": "danburite"
+        },
+        {
+            "name": "desert rose"
+        },
+        {
+            "name": "diamond"
+        },
+        {
+            "name": "diopside"
+        },
+        {
+            "name": "dioptase"
+        },
+        {
+            "name": "dolomite"
+        },
+        {
+            "name": "durmortierite"
+        },
+        {
+            "name": "emerald"
+        },
+        {
+            "name": "epidote"
+        },
+        {
+            "name": "eudialyte"
+        },
+        {
+            "name": "fluorite"
+        },
+        {
+            "name": "fuchsite"
+        },
+        {
+            "name": "garnet"
+        },
+        {
+            "name": "gold"
+        },
+        {
+            "name": "heliotrope"
+        },
+        {
+            "name": "herkimer"
+        },
+        {
+            "name": "jade"
+        },
+        {
+            "name": "labradorite"
+        },
+        {
+            "name": "malachite"
+        },
+        {
+            "name": "morganite"
+        },
+        {
+            "name": "obsidian"
+        },
+        {
+            "name": "peridot"
+        },
+        {
+            "name": "pyromorphite"
+        },
+        {
+            "name": "quartz"
+        },
+        {
+            "name": "rhodolite"
+        },
+        {
+            "name": "rose quartz"
+        },
+        {
+            "name": "sapphire"
+        },
+        {
+            "name": "smoky quartz"
+        },
+        {
+            "name": "soldalite"
+        },
+        {
+            "name": "tsavorite"
+        },
+        {
+            "name": "vanadinite"
+        },
+        {
+            "name": "wavellite"
+        }
+    ]
+}
