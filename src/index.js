@@ -6,9 +6,7 @@ class Crystal {
 	}
 
 	crystal() {
-		let random = (random = Math.floor(
-			Math.random() * Math.floor(crystals['crystals'].length)
-		));
+		let random = Math.floor(Math.random() * Math.floor(crystals['crystals'].length));
 		let winner;
 		crystals['crystals'].map((crystal, i) => {
 			if (random === i) {
